@@ -1,5 +1,7 @@
 const hello="Hello World!"
 
-console.log(hello)
+console.log("version 1")
 
-console.log("This is a sample JavaScript file in the GitHub repository.")
+console.log("version 2")
+
+console.log("version 3")
